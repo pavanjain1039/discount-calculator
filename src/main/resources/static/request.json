@@ -1,0 +1,29 @@
+{
+    "billNumber" : "111",
+    "user" : {
+        "userId" : "01",
+        "userName" : "UserName",
+        "userSince" : "2023-05-12",
+        "userType" : "STORE_EMPLOYEE"
+    },
+    "items" : [
+        {
+            "itemid" : "1",
+            "itemName" : "pen",
+            "itemPrice" : 100,
+            "itemCateogry" : "STATIONARY"
+        },
+        {
+            "itemid" : "1",
+            "itemName" : "bookmark",
+            "itemPrice" : 15,
+            "itemCateogry" : "STATIONARY"
+        },
+        {
+            "itemid" : "2",
+            "itemName" : "chilli",
+            "itemPrice" : 42.5,
+            "itemCateogry" : "GROCERIES"
+        }
+    ]
+}
