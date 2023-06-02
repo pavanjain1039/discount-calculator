@@ -38,5 +38,9 @@ public class Bill {
 		.mapToDouble(Item::getItemPrice)
 		.sum();
 	}
+	@Override
+	public String toString() {
+		return "Bill [billNumber=" + billNumber + ", items=" + items + ", user=" + user + "]";
+	}
 	
 }

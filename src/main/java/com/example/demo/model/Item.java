@@ -29,5 +29,9 @@ public class Item {
 	public void setItemCateogry(ItemCategory itemCateogry) {
 		this.itemCateogry = itemCateogry;
 	}
+	@Override
+	public String toString() {
+		return "Item [itemName=" + itemName + ", itemPrice=" + itemPrice + ", itemCateogry=" + itemCateogry + "]";
+	}
 	
 }

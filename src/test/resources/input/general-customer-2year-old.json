@@ -1,0 +1,25 @@
+{
+    "billNumber" : "111",
+    "user" : {
+        "userName" : "UserName",
+        "userSince" : "2020-05-12",
+        "userType" : "GENERAL"
+    },
+    "items" : [
+        {
+            "itemName" : "pen",
+            "itemPrice" : 100,
+            "itemCateogry" : "STATIONARY"
+        },
+        {
+            "itemName" : "bookmark",
+            "itemPrice" : 15,
+            "itemCateogry" : "STATIONARY"
+        },
+        {
+            "itemName" : "chilli",
+            "itemPrice" : 42.5,
+            "itemCateogry" : "GROCERIES"
+        }
+    ]
+}
